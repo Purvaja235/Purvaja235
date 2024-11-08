@@ -15,13 +15,13 @@ I'm a Full Stack Developer and MCA student with a strong foundation in web devel
 
 ### 🌟 Featured Projects
 
-- **Algorithm Explorer** - 
+- **Algorithm Explorer** - [GitHub](#) | [Live Demo](#)
   - Visualizes pathfinding algorithms like BFS, DFS, and A*, with real-world applications in robotics and navigation.
 
-- **Sorting Visualizer** - 
+- **Sorting Visualizer** - [GitHub](#) | [Live Demo](#)
   - An interactive platform for understanding sorting algorithms, helping developers optimize and debug efficiently.
 
-- **Random Password Generator** - 
+- **Random Password Generator** - [GitHub](#) | [Live Demo](#)
   - Generates complex passwords with user-defined parameters, enhancing security and user productivity.
 
 ---
