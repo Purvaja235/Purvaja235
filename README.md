@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Purvaja Patil 👋
 
-<!--
-**Purvaja235/Purvaja235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer and MCA student with a strong foundation in web development and a keen interest in data structures and algorithms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+
+- **Languages**: JavaScript, Java, SQL, HTML, CSS
+- **Frameworks**: React, Spring Boot, Node.js
+- **Databases & Tools**: MySQL, MongoDB, Git, GitHub
+- **Soft Skills**: Communication, Team Collaboration, Problem-solving, Adaptability
+
+---
+
+### 🌟 Featured Projects
+
+- **Algorithm Explorer** - 
+  - Visualizes pathfinding algorithms like BFS, DFS, and A*, with real-world applications in robotics and navigation.
+
+- **Sorting Visualizer** - 
+  - An interactive platform for understanding sorting algorithms, helping developers optimize and debug efficiently.
+
+- **Random Password Generator** - 
+  - Generates complex passwords with user-defined parameters, enhancing security and user productivity.
+
+---
+
+### 📜 Certifications
+
+- **Software Engineering Virtual Experience** - Walmart
+- **Coding: Development & Advanced Engineering** - Accenture
+- **AWS Cloud Practitioner Essentials** - AWS
+
+---
+
+### 📫 Let's Connect
+
+- **LinkedIn**: [Purvaja Patil](https://www.linkedin.com/in/purvaja-patil28/)
+- **Email**: purvajapatil0101@gmail.com
