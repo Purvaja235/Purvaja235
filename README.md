@@ -7,7 +7,7 @@ I'm a Full Stack Developer and MCA student with a strong foundation in web devel
 ### 🛠 Skills
 
 - **Languages**: JavaScript, Java, SQL, HTML, CSS
-- **Frameworks**: React, Spring Boot, Node.js
+- **Frameworks**: React
 - **Databases & Tools**: MySQL, MongoDB, Git, GitHub
 - **Soft Skills**: Communication, Team Collaboration, Problem-solving, Adaptability
 
