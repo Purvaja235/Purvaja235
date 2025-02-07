@@ -1,6 +1,6 @@
 # Hi, I'm Purvaja Patil 👋
 
-I'm a Full Stack Developer and MCA student with a strong foundation in web development and a keen interest in data structures and algorithms.
+I'm a Full Stack Developer Intern and MCA student with a strong foundation in web development and a keen interest in data structures and algorithms.
 
 ---
 
