@@ -1,16 +1,16 @@
-# Hi, I'm Purvaja Patil 👋
+Hi, I'm Purvaja Patil 👋
+I am a Java Full Stack Developer Intern and MCA graduate with hands-on experience in building secure, scalable web applications using Angular and Spring Boot. Passionate about problem-solving, I continuously enhance my skills in data structures, algorithms, and full-stack development.
 
-I'm a Full Stack Developer Intern and MCA student with a strong foundation in web development and a keen interest in data structures and algorithms.
+🛠 Skills
+Languages: Java, JavaScript, SQL, HTML, CSS, TypeScript
 
----
+Backend: Spring Boot, Spring Security, Hibernate, JPA, JDBC, REST APIs, Maven
 
-### 🛠 Skills
+Frontend: Angular, Angular Material, HTML, CSS
 
-- **Languages**: JavaScript, Java, SQL, HTML, CSS
-- **Frameworks**: React
-- **Databases & Tools**: MySQL, MongoDB, Git, GitHub
-- **Soft Skills**: Communication, Team Collaboration, Problem-solving, Adaptability
+Databases & Tools: MySQL, MongoDB, Eclipse, IntelliJ IDEA, Postman, Git, GitHub
 
+Other: JWT Authentication, Role-Based Access Control, Agile Methodologies, WebSocket Integration, AWS Fundamentals
 ---
 
 ### 🌟 Featured Projects
