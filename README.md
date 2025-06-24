@@ -1,6 +1,6 @@
 # Hi, I'm Purvaja Patil 👋
 
-I am a Java Full Stack Developer Intern and MCA graduate with hands-on experience in building secure, scalable web applications using Angular and Spring Boot. Passionate about problem-solving, I continuously enhance my skills in data structures, algorithms, and full-stack development.
+I am a Java Full Stack Developer and MCA graduate with hands-on experience in building secure, scalable web applications using Angular and Spring Boot. Passionate about problem-solving, I continuously enhance my skills in data structures, algorithms, and full-stack development.
 
 ---
 
@@ -24,9 +24,6 @@ I am a Java Full Stack Developer Intern and MCA graduate with hands-on experienc
 
 - **Random Password Generator** - [GitHub](https://github.com/Purvaja235/random-password-generator) | [Live Demo](https://random-password-generator-purvaja.netlify.app/)  
   - Generates complex passwords with user-defined parameters, enhancing security and user productivity.
-
-- **Internal CRM Tool**  
-  - Developed a full-stack CRM platform using Angular and Spring Boot with reusable UI components and secure JWT-based authentication to manage users, clients, and stakeholders.
 
 - **Client Feedback & Issue Tracker**  
   - Built Angular front-end and Spring Boot backend REST APIs to track client feedback and issues with role-based access control and real-time WebSocket updates.
