@@ -6,27 +6,11 @@ I am a Java Full Stack Developer and MCA graduate with hands-on experience in bu
 
 ### 🛠 Skills
 
-- **Languages:** Java, JavaScript, SQL, HTML, CSS, TypeScript  
+- **Languages:** Java, SQL, HTML, CSS, TypeScript  
 - **Backend:** Spring Boot, Spring Security, Hibernate, JPA, JDBC, REST APIs, Maven  
 - **Frontend:** Angular, Angular Material, HTML, CSS  
-- **Databases & Tools:** MySQL, MongoDB, Eclipse, IntelliJ IDEA, Postman, Git, GitHub  
-- **Other:** JWT Authentication, Role-Based Access Control, Agile Methodologies, WebSocket Integration, AWS Fundamentals  
-
----
-
-### 🌟 Featured Projects
-
-- **Algorithm Explorer** - [GitHub](https://github.com/Purvaja235/Algorithm-Explorer) | [Live Demo](https://algorithmprojectmadebypurvaja.netlify.app/)  
-  - Visualizes pathfinding algorithms like BFS, DFS, and A*, with real-world applications in robotics and navigation.
-
-- **Sorting Visualizer** - [GitHub](https://github.com/Purvaja235/Sorting_Techniques_Visualizer) | [Live Demo](https://sortingmadebypurvaja.netlify.app/)  
-  - An interactive platform for understanding sorting algorithms, helping developers optimize and debug efficiently.
-
-- **Random Password Generator** - [GitHub](https://github.com/Purvaja235/random-password-generator) | [Live Demo](https://random-password-generator-purvaja.netlify.app/)  
-  - Generates complex passwords with user-defined parameters, enhancing security and user productivity.
-
-- **Client Feedback & Issue Tracker**  
-  - Built Angular front-end and Spring Boot backend REST APIs to track client feedback and issues with role-based access control and real-time WebSocket updates.
+- **Databases & Tools:** MySQL, Eclipse, IntelliJ IDEA, Postman, Git, GitHub  
+- **Other:** JWT Authentication, Role-Based Access Control
 
 ---
 
