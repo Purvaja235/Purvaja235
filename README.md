@@ -76,6 +76,7 @@ Secure enterprise-style ticket management platform implementing authentication, 
 * Containerized the application using Docker.
 
 🔗 **[View Project on GitHub](https://github.com/Purvaja235/service-desk-ticket-management-system)**
+
 ---
 
 ## 💼 Experience
@@ -97,7 +98,7 @@ Secure enterprise-style ticket management platform implementing authentication, 
 
 ## 🧠 DSA & Problem Solving
 
-Currently strengthening my **Data Structures & Algorithms skills using Java**.
+Currently strengthening my **Data Structures & Algorithms skills using Java** for technical interview preparation.
 
 ### Topics
 
@@ -120,6 +121,8 @@ Currently strengthening my **Data Structures & Algorithms skills using Java**.
 
 📌 DSA solutions are organized by **patterns and concepts** to make problem-solving and interview revision easier.
 
+🔗 **[View My DSA Practice Repository](https://github.com/Purvaja235/DSA-Practice)**
+
 ---
 
 ## 🎓 Education
@@ -140,7 +143,7 @@ July 2020 – June 2023
 
 * **LinkedIn:** [Purvaja Patil](https://www.linkedin.com/in/purvaja-patil28/)
 * **Email:** [purvaja943@gmail.com](mailto:purvaja943@gmail.com)
-* **GitHub:** [Purvaja Patil](https://github.com/)
+* **GitHub:** [Purvaja Patil](https://github.com/Purvaja235)
 
 ---
 
