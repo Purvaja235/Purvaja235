@@ -122,14 +122,6 @@ Currently strengthening my **Data Structures & Algorithms skills using Java**.
 
 ---
 
-## 📚 Certifications
-
-* **Software Engineering Virtual Experience — Walmart**
-* **Coding: Development & Advanced Engineering — Accenture**
-* **AWS Cloud Practitioner Essentials — AWS**
-
----
-
 ## 🎓 Education
 
 ### Master of Computer Application (MCA)
