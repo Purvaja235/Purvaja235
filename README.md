@@ -1,28 +1,155 @@
 # Hi, I'm Purvaja Patil 👋
 
-I am a Java Full Stack Developer and MCA graduate with hands-on experience in building secure, scalable web applications using Angular and Spring Boot. Passionate about problem-solving, I continuously enhance my skills in data structures, algorithms, and full-stack development.
+### Java Full Stack Developer | Java | Spring Boot | Angular
+
+Java Full Stack Developer with internship experience building secure enterprise web applications using **Java, Spring Boot, Spring Security, JWT, Angular, Hibernate, REST APIs, and MySQL**.
+
+Passionate about **backend engineering, scalable APIs, clean software design, and problem-solving**. Currently strengthening my **Data Structures & Algorithms (DSA)** skills using Java for technical interview preparation.
 
 ---
 
-### 🛠 Skills
+## 🛠️ Technical Skills
 
-- **Languages:** Java, SQL, HTML, CSS, TypeScript  
-- **Backend:** Spring Boot, Spring Security, Hibernate, JPA, JDBC, REST APIs, Maven  
-- **Frontend:** Angular, Angular Material, HTML, CSS  
-- **Databases & Tools:** MySQL, Eclipse, IntelliJ IDEA, Postman, Git, GitHub  
-- **Other:** JWT Authentication, Role-Based Access Control
+**Languages**
+
+* Java
+* SQL
+* HTML
+* CSS
+* TypeScript
+
+**Backend**
+
+* Spring Boot
+* Spring Security
+* Hibernate
+* JPA
+* JDBC
+* REST APIs
+* JWT
+* Maven
+
+**Frontend**
+
+* Angular
+* Angular Material
+* HTML
+* CSS
+* TypeScript
+
+**Database**
+
+* MySQL
+
+**Tools**
+
+* Git
+* GitHub
+* IntelliJ IDEA
+* Eclipse
+* Postman
+* Swagger / OpenAPI
+* Docker
 
 ---
 
-### 📜 Certifications
+## 💻 Featured Project
 
-- **[Software Engineering Virtual Experience](https://drive.google.com/file/d/18gYwwiplqqiwFUgdQe_X4n6OqXn96f3t/view)** - Walmart  
-- **[Coding: Development & Advanced Engineering](https://drive.google.com/file/d/1NIHb4b6X9vlAlQeTlhzAsb-9C91wTM13/view)** - Accenture  
-- **[AWS Cloud Practitioner Essentials](https://drive.google.com/file/d/1GWhL2pmE6zMB32yVR_c8m8cJhMPSr3z6/view)** - AWS  
+### Service Desk Ticket Management System
+
+**Java | Spring Boot | Spring Security | JWT | Hibernate | MySQL | Docker**
+
+Secure enterprise-style ticket management platform implementing authentication, authorization, ticket workflows, and REST APIs.
+
+**Key Features:**
+
+* Implemented JWT-based authentication and role-based authorization.
+* Supported **ADMIN, AGENT, and EMPLOYEE** roles.
+* Implemented ticket creation, assignment, status transitions, and comments.
+* Designed layered architecture using **Controller, Service, Repository, and DTO** patterns.
+* Integrated Hibernate JPA with MySQL and designed entity relationships.
+* Implemented global exception handling and API validation.
+* Created standardized API response structures.
+* Documented REST APIs using Swagger / OpenAPI.
+* Tested APIs using Postman.
+* Added unit testing using JUnit and Mockito.
+* Containerized the application using Docker.
+
+🔗 **[View Project on GitHub](https://github.com/Purvaja235/service-desk-ticket-management-system)**
+---
+
+## 💼 Experience
+
+### Java Full Stack Developer Intern — Mukta Innovation
+
+**Jan 2025 – Jun 2025 | Pune, India**
+
+* Collaborated on the development of a secure internal CRM platform for the company's mobile app ecosystem.
+* Implemented a reusable **Generic Table component** for dynamically displaying data from database tables.
+* Built reusable **Angular + Spring Boot** modules for dynamic CRUD operations.
+* Implemented JWT-based authentication and role-based authorization.
+* Developed backend services and REST APIs using Spring Boot.
+* Integrated REST APIs with Angular components for application workflows.
+* Implemented dynamic lookup fields, dropdowns, and side panels using configuration-driven UI.
+* Automated record management workflows to improve accuracy and reduce manual effort.
 
 ---
 
-### 📫 Let's Connect
+## 🧠 DSA & Problem Solving
 
-- **LinkedIn:** [Purvaja Patil](https://www.linkedin.com/in/purvaja-patil28/)  
-- **Email:** purvajapatil0101@gmail.com  
+Currently strengthening my **Data Structures & Algorithms skills using Java**.
+
+### Topics
+
+* Number Problems
+* Arrays
+* Strings
+* Searching
+* Sorting
+* Hashing
+* Two Pointers
+* Sliding Window
+* Binary Search
+* Recursion
+* Linked List
+* Stack & Queue
+* Trees
+* Graphs
+* Greedy
+* Dynamic Programming
+
+📌 DSA solutions are organized by **patterns and concepts** to make problem-solving and interview revision easier.
+
+---
+
+## 📚 Certifications
+
+* **Software Engineering Virtual Experience — Walmart**
+* **Coding: Development & Advanced Engineering — Accenture**
+* **AWS Cloud Practitioner Essentials — AWS**
+
+---
+
+## 🎓 Education
+
+### Master of Computer Application (MCA)
+
+**MIT World Peace University, Pune**
+July 2023 – June 2025
+
+### Bachelor of Computer Application (BCA)
+
+**North Maharashtra University, Jalgaon**
+July 2020 – June 2023
+
+---
+
+## 📫 Let's Connect
+
+* **LinkedIn:** [Purvaja Patil](https://www.linkedin.com/in/purvaja-patil28/)
+* **Email:** [purvaja943@gmail.com](mailto:purvaja943@gmail.com)
+* **GitHub:** [Purvaja Patil](https://github.com/)
+
+---
+
+⭐ Thanks for visiting my profile!
